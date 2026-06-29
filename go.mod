@@ -9,7 +9,7 @@ require (
 	github.com/doug-martin/goqu/v9 v9.18.0
 	github.com/eclipse/paho.mqtt.golang v1.4.2
 	github.com/golang-jwt/jwt v3.2.2+incompatible
-	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
+	github.com/golang/glog v1.2.4
 	github.com/gorilla/handlers v1.5.1
 	github.com/gorilla/mux v1.8.0
 	github.com/jmoiron/sqlx v1.3.5
